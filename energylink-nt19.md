@@ -39,7 +39,8 @@ NexTurbine19 第八届下一代燃气轮机峰会
 燃气轮机、前沿技术、天然气发电、分布式能源、电厂运营维护
 
 活动banner 尺寸16:9
-![Banner-16-9](https://user-images.githubusercontent.com/48549265/56859310-9ddfc700-69bb-11e9-9de8-2d0dee9a5acb.jpg)
+![Banner-16-9](https://user-images.githubusercontent.com/48549265/56861424-2ddd3b00-69d3-11e9-86cc-edecccb25b5b.jpg)
+
 
 活动logo 正方形图片
 ![NT-logo](https://user-images.githubusercontent.com/48549265/56859312-a7692f00-69bb-11e9-864e-1c76fac08b6b.png)
@@ -106,6 +107,10 @@ NexTurbine19 围绕以上行业变化和重点议题，以市场和用户需求�
 ![CH-0423-8](https://user-images.githubusercontent.com/48549265/56859337-d67fa080-69bb-11e9-9d02-080a3e42905f.jpg)
 ![CH-0423-9](https://user-images.githubusercontent.com/48549265/56859338-d7183700-69bb-11e9-8855-3279049a9990.jpg)
 ![CH-0423-10](https://user-images.githubusercontent.com/48549265/56859339-d7b0cd80-69bb-11e9-9fa2-6cfb6aade234.jpg)
+
+会议海报
+![亮点内容](https://user-images.githubusercontent.com/48549265/56861439-4fd6bd80-69d3-11e9-9a8e-db62685a0dfb.jpg)
+
 
 ## 参会报名及费用
 
